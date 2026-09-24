@@ -16,4 +16,4 @@ Start with the Executive Summary in `proposal.md`. The options evaluation matrix
 
 ## Author
 
-[Your name], [student number]
+Charlie Bissinella, S4040144
