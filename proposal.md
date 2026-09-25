@@ -1,99 +1,11 @@
-# [Title: AI and the South Australian Aged Care Workforce]
+Client and context: This is a brief to the South Australia Minister for Artificial Intelligence and the Office for Artificial Intelligence. This is prepared as a submission to the Royal Commission into Artificial Intelligence which commences on the 1st of October, 2026. 
 
-> **Client and context:** [One sentence: brief to the SA Minister for Artificial Intelligence / Office for AI, as a submission to the Royal Commission into Artificial Intelligence (commencing 1 October 2026).]
+**Executive Summary**
+Artificial intelligence (AI) is already having an impact upon aged care work. AI tools can significantly reduce the documentation burden on staff whilst the Commonwealth's Integrated Assessment Tool (IAT) shows how poorly governed AI can remove the personal judgement from care jobs. Into the future, AI will mostly transform rather than replace care roles, but the risks associated with it fall on administrative staff and a workforce which is 86% female. This breif recommends a Care Time Dividend Compact with three separate parts. The first is a AI documentation pilot which turns time saved into more direct care. The second is a free TAFE SA Care Technology Lead skill set with subsidized training time. The third is a human override standard for tools in state-funded care. The package would cost an estimated $7 million over two years and gives the Royal Commission a practical model for the care workforce. 
 
-## Executive Summary
+**Probelm and Context**
+South Australia's Royal Commission into Artificial Intelligence will advise on the economic and social opportunities and challenges AI brings to the state. It commences on 1st of October 2026 and reports by 1st of July 2027 (Office for Artificial Intelligence 2026). The focus areas include skills and workforce, as well as publics services such as health (DPC 2026). However, its Terms of Reference had not been releases as of 25th of September 2026. 
 
-[120–150 words. Problem, key impacts, recommended package, headline cost.]
+This brief covers two forms of AI - generative AI such as digital scribes that draft care notes and algorithmic decision systems which make or recommend decisions about people. Aged care is largely a Commonwealth responsibility so South Australia's direct levers are its own aged care services, TAFE SA, state procurement and the Royal Commission itself. 
 
-## 1. Problem Definition and Context
-
-[What is changing in aged care work and why. SA Royal Commission context. Commonwealth vs state responsibility. The IAT example.]
-
-## 2. Analysis of Impacts
-
-### 2.1 Tasks and job design
-
-[Exposed vs non-exposed tasks: documentation, assessment, rostering vs physical and relational care.]
-
-### 2.2 Employment
-
-[Displacement vs reinstatement. Labour shortage context.]
-
-### 2.3 Wages
-
-[Who captures productivity gains. Fair Work decisions. Government as dominant funder.]
-
-### 2.4 Industry structure
-
-[Provider size, adoption capacity, vendor market.]
-
-### 2.5 Distributional and equity effects
-
-[Gender, migrant workers, age, part-time/casual, regional SA, residents from CALD backgrounds.]
-
-## 3. Policy Options and Evaluation
-
-### Option A: [Name]
-
-- **Mechanism:**
-- **Target:**
-- **Scale/cost:**
-
-### Option B: [Name]
-
-- **Mechanism:**
-- **Target:**
-- **Scale/cost:**
-
-### Option C: [Name]
-
-- **Mechanism:**
-- **Target:**
-- **Scale/cost:**
-
-### Option D: [Name]
-
-- **Mechanism:**
-- **Target:**
-- **Scale/cost:**
-
-### Evaluation matrix
-
-| Criterion | Option A | Option B | Option C | Option D |
-|---|---|---|---|---|
-| Efficiency | | | | |
-| Equity | | | | |
-| Care quality | | | | |
-| Feasibility (jurisdiction) | | | | |
-| Fiscal cost | | | | |
-
-[Short paragraph on the key trade-offs.]
-
-## 4. Recommended Package and Implementation Plan
-
-[Summary of the recommended package.]
-
-| Phase | Timing | Action | Responsible | Cost |
-|---|---|---|---|---|
-| | | | | |
-
-### KPIs
-
-| KPI | Baseline | Target | Data source |
-|---|---|---|---|
-| | | | |
-
-### Costing assumptions
-
-[List each assumption and its source.]
-
-## 5. Risks and Mitigations
-
-| Risk | Likelihood | Mitigation |
-|---|---|---|
-| | | |
-
-## References
-
-[RMIT Harvard, alphabetical.]
+The Commonwealth's IAT shows why governance matters. Since November 2025, an algorithm has set older people's home care funding and assessors cannot override it even when they believe it is wrong (Connolly and Kopel 2026). Officials discovered only three days before rollout that the Aged Care Rules 2025 gave assessors no legal discretion to do so (Davey 2026). The policy problem is how South Australia can capture the productivity benefits of AI in aged care without deskilling workers or harming the quality of care.
