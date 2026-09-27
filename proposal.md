@@ -59,3 +59,13 @@ This brief recommends Option C, a Care Time Dividend Compact with three parts.
 
 **Risks and Mitigation**
 <img width="469" height="154" alt="image" src="https://github.com/user-attachments/assets/57472ca2-e950-4072-b32e-87d6350dcb90" />
+
+**References**
+Acemoglu D and Restrepo P (2019) 'Automation and new tasks: how technology displaces and reinstates labor', The Journal of Economic Perspectives, 33(2):3-30, doi:10.1257/jep.33.2.3.
+AIHW (Australian Institute of Health and Welfare) (2024) 2023 Aged Care Provider Workforce Survey, GEN 011, AIHW, Australian Government, accessed 25 September 2026. https://www.gen-agedcaredata.gov.au/resources/publications/2024/august/2023-aged-care-provider-workforce-survey
+Connolly A and Kopel N (24 March 2026) 'New aged care algorithm under fire as 800 apply for review', ABC News, accessed 25 September 2026. https://www.abc.net.au/news/2026-03-24/aged-care-algorithm-for-home-care-under-fire/106475138
+Davey M (17 September 2026) 'Health officials in turmoil over 11th-hour backflip on aged care algorithm override powers, emails reveal', The Guardian, accessed 25 September 2026. https://www.theguardian.com/australia-news/2026/sep/17/australian-home-support-assessment-algorithm-aged-care
+DPC (Department of the Premier and Cabinet) (2026) Royal Commission into Artificial Intelligence announced, Government of South Australia, accessed 25 September 2026. https://www.dpc.sa.gov.au/news/royal-commission-into-artificial-intelligence-announced
+Gmyrek P, Berg J, Kamiński K, Konopczynski F, Ladna A, Nafradi B, Roslaniec K and Troszynski M (2025) Generative AI and jobs: a refined global index of occupational exposure, ILO Working Paper 140, International Labour Organization, Geneva. https://doi.org/10.54394/HETP0387
+JSA (Jobs and Skills Australia) (2025) Our Gen AI transition: implications for work and skills, JSA, Australian Government, Canberra, accessed 25 September 2026. https://www.jobsandskills.gov.au/publications/generative-ai-capacity-study-report
+Office for Artificial Intelligence (2026) Royal Commission into Artificial Intelligence, Government of South Australia, accessed 25 September 2026. https://ai.sa.gov.au/royal-commission-into-artificial-intelligence
