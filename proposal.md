@@ -20,3 +20,25 @@ As the dominant funder, government largely decides whether the productivity gain
 The Commonwealth moved much assessment work away from state health systems, awarding more than $1.2 billion in contracts to private and not-for-profit providers (Connolly and Kopel 2026). AI adoption is also uneven (JSA 2025), and large providers can fund new systems more easily than small and regional ones, which risks widening the gap between metropolitan and regional services.
 
 Women make up 85.8% of nursing and personal care staff (AIHW 2024) and face higher generative AI exposure. In high-income countries 9.6% of female employment is in the highest exposure category compared with 3.5% of male employment (Gmyrek et al. 2025). Around 43% of these staff are aged 45 or older (AIHW 2024), and JSA (2025) identifies women and older workers as groups at disproportionate risk. A further 41% of direct care workers are casual, fixed term or indirectly employed (AIHW 2024), making them the least likely to receive employer-funded training. Older people receiving care also bear risk, with state health officials logging hundreds of under-assessments under the IAT (Davey 2026). These figures are national and from 2023, so South Australian patterns may differ.
+
+**Policy Options and Evaluation**
+Three options are assessed against five criteria: efficiency (productivity gains relative to cost), equity (fair distribution of benefits and risk), care quality, feasibility (including the state's jurisdiction) and fiscal cost 
+
+Option A: Market-led adoption
+•	Mechanism: Providers adopt AI tools at their own pace, guided by voluntary Office for AI guidance.
+•	Target: All South Australian aged care providers.
+•	Scale/cost: Around $0.3 million for guidance.
+
+Option B: Unconditional AI adoption grants
+•	Mechanism: State grants cover part of the cost of AI documentation tools, with no conditions on how savings are used.
+•	Target: South Australian providers, prioritising small and regional services.
+•	Scale/cost: Around $5 million over two years.
+
+Option C: Conditional Care Time Dividend Compact
+•	Mechanism: Funds AI documentation tools on the condition that time saved is returned to direct care, with worker training and a human override standard.
+•	Target: SA Health operated aged care services, regional not-for-profit providers and personal care workers.
+•	Scale/cost: Around $7.0 million over two years 
+
+<img width="467" height="128" alt="image" src="https://github.com/user-attachments/assets/27263e38-0719-4041-84a7-b7659a2e0600" />
+
+
