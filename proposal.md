@@ -48,3 +48,14 @@ This brief recommends Option C, a Care Time Dividend Compact with three parts.
 2.	TAFE SA Care Technology Lead skill set. A fee-free short course with paid training time, prioritising casual and agency workers. Completion leads to a recognised role above base grade, linking skills to pay progression. This follows the JSA (2025) recommendation for accessible short-form AI training.
 3.	Human override standard. Algorithmic tools in state-funded care must allow qualified staff to override decisions, with every override recorded and reviewed. Through the Royal Commission, South Australia should also ask the Commonwealth to amend the Aged Care Rules 2025 to restore assessor discretion. This reflects the JSA (2025) recommendation that governments model principles-based AI use in human services.
 
+**Timeline**
+<img width="376" height="137" alt="image" src="https://github.com/user-attachments/assets/6a6cd655-f638-4245-a2fe-8f7d44f7155d" />
+
+**Costing**
+<img width="371" height="115" alt="image" src="https://github.com/user-attachments/assets/0ac3aa3a-6094-413d-bca0-80c70880dc5c" />
+
+**KPIs**
+<img width="404" height="134" alt="image" src="https://github.com/user-attachments/assets/8c0949f1-5890-4094-9325-3cb91ae53666" />
+
+**Risks and Mitigation**
+<img width="469" height="154" alt="image" src="https://github.com/user-attachments/assets/57472ca2-e950-4072-b32e-87d6350dcb90" />
