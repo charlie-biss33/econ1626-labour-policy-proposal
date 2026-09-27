@@ -41,4 +41,10 @@ Option C: Conditional Care Time Dividend Compact
 
 <img width="467" height="128" alt="image" src="https://github.com/user-attachments/assets/27263e38-0719-4041-84a7-b7659a2e0600" />
 
+**Recommended Package and Implementation Plan**
+This brief recommends Option C, a Care Time Dividend Compact with three parts.
+
+1.	Conditional AI documentation pilot. Fund approved AI documentation tools in 20 services, including SA Health operated facilities and regional not-for-profit providers. Funding requires measured time savings to be returned to direct care rather than cutting staff hours, and staff to co-design how the tools are used. JSA (2025) finds that engaging workers in AI design improves outcomes.
+2.	TAFE SA Care Technology Lead skill set. A fee-free short course with paid training time, prioritising casual and agency workers. Completion leads to a recognised role above base grade, linking skills to pay progression. This follows the JSA (2025) recommendation for accessible short-form AI training.
+3.	Human override standard. Algorithmic tools in state-funded care must allow qualified staff to override decisions, with every override recorded and reviewed. Through the Royal Commission, South Australia should also ask the Commonwealth to amend the Aged Care Rules 2025 to restore assessor discretion. This reflects the JSA (2025) recommendation that governments model principles-based AI use in human services.
 
