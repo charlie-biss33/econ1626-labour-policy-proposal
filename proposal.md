@@ -75,6 +75,8 @@ Acemoglu D and Restrepo P (2019) 'Automation and new tasks: how technology displ
 
 AIHW (Australian Institute of Health and Welfare) (2024) 2023 Aged Care Provider Workforce Survey, GEN 011, AIHW, Australian Government, accessed 25 September 2026. https://www.gen-agedcaredata.gov.au/resources/publications/2024/august/2023-aged-care-provider-workforce-survey
 
+Anthropic (2026) Claude [Large language model], accessed 27 September 2026.
+
 Connolly A and Kopel N (24 March 2026) 'New aged care algorithm under fire as 800 apply for review', ABC News, accessed 25 September 2026. https://www.abc.net.au/news/2026-03-24/aged-care-algorithm-for-home-care-under-fire/106475138
 
 Davey M (17 September 2026) 'Health officials in turmoil over 11th-hour backflip on aged care algorithm override powers, emails reveal', The Guardian, accessed 25 September 2026. https://www.theguardian.com/australia-news/2026/sep/17/australian-home-support-assessment-algorithm-aged-care
